@@ -21,7 +21,7 @@
 
 Bad Visualization: Internet Access Across the World. 2003 to 2022
 URL: https://public.tableau.com/app/profile/chimdi.nwosu/viz/MakeoverMondayWk45-InternetAccessAcrosstheWorld_2003to2022/Dashboard1
-![image](A2 - Bad Viz.png)
+![Bad Viz](A2 - Bad Viz.png)
 
 - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did:
 I chose to classify this visualization as a bad one due to a number of factors which I will list below:
@@ -38,11 +38,20 @@ I chose to classify this visualization as a bad one due to a number of factors w
 
 
 Good Visualization: 
-URL: 
-![image]()
+URL: https://public.tableau.com/app/profile/daniel.teo/viz/NBAShotCharts_15795208182820/ShotChart
+![Good Viz](A2 - Good Viz.png)
 - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did:
-
+I chose to label this as the good visualization because it communicates comple data in a clear and engaging way that uses intuitive design elements to communicate it's information:
+1) The layout is clear and focused: the visualization allows us to select from players on the left which then populates the shot chart to the right. The layout is clean, well-spaced, and doesn't have too many parts which allows the reader to focus and understand what's going on.
+2) The interactivity is clear and limited. Great use of labels to indicate what the options are available to users and clear annotations and legends throughout.
+3) The colours are clear and effective: red and blue communicate the player's shooting efficincie relative to the league average using blue and red to convey whether they're hotter or colder than the rest of the league which is the intuitive interpretation. 
+4) Great use of context as base metric: by utilizing efficiency by location in relation to league average we can assess a player's effectiveness with a broader understanding of how they compare to other players. Having top 25 players (sans Lebron for some reason) allows us to get a better grasp of their efficiencies and limitations. 
 - How could this data visualization have been improved?
+Like any good piece of work, this visualization can be improved in the following ways:
+1) Provide a clear legend or description for the shot chart scale - the colour efficincie is intuitive, having a grasp on what constitues the above or below average performance would show more of an impact on the reader's understanding of the player's efficiency.
+2) Improve the gray - while it helps to not use too many coloours, in this case, the gray makes it appear as if those shots are ignored or "greyed out" which goes against clarity.
+3) Provide a highlight of any specific outlier or extra success zones as this can emphasize certain insights.
+4) Vary the sizes of the hexaogns more to highlight volume shot zones - while this is used in some capacity it'd be better to highlight the stark differences in volume between shots.
 
 ### Why am I doing this assignment?:
 
