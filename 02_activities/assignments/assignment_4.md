@@ -25,6 +25,29 @@
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
+Visualization 1: Excel
+![UofT Graduate Enrollment by Gender](02_activities/assignments/IMG_DataVis_in_Excel-1.png)
+![UofT Graduate Enrollment by Gende Detailed](02_activities/assignments/IMG_DataVis_in_Excel.png)
+
+•	What software did you use to create your data visualization?
+o	I used Microsoft Excel for visualization.
+•	Who is your intended audience?
+o	My intended audience in this case are those interested in seeing gender trends in graduate students at the University of Toronto.
+•	What information or message are you trying to convey with your visualization?
+o	There’s no specific message that I’m trying to convey but rather to show trends in gender enrollment for graduate students at the University of Toronto. Given the output of the visualization, the message could be that whilst the overall # of students is increasing, the number of female students is far outpacing the number of male students, and there’s an increased education gap.
+•	What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+o	The substantiative principle was to focus on graduate students at UofT only, and to clearly label and clear up any confusing information. For perceptual, I made sure to use distinct colours and clear legends for each gender group, organizing the years on the horizontal axis to show the passage of time. The aesthetic choice was to use a simple, clean palette that maintained consistent formatting.
+•	How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+o	The software I use does not allow 1:1 reproducibility. That being said, the range for the chart itself could be loaded with new data to allow those following our footsteps to recreate the work. Given that the data is not 1:1 reproducible via code, someone checking on my work would have to recreate the steps that I went to and make assumptions based on the work presented.
+•	How did you ensure that your data visualization is accessible?
+o	I’ve ensured that the color palette for the visualization uses blue & orange for male and female to allow colorblind users greater access. There are also clear, legible labels, as well as a legend that will allow our users to read the information quickly.
+•	Who are the individuals and communities who might be impacted by your visualization?
+o	Some who may be impacted by visualization are those studying gender gaps in higher education, sociologists, potential students, and University administrators.
+•	How did you choose which features of your chosen dataset to include or exclude from your visualization?
+o	I chose to focus on a bite-sized, clearly defined visualization as there was quite a bit of information available. I chose to include the N/A or another gender despite the comparably low number of students to the other genders to allow for posterity and visibility. I also chose to focus on the University of Toronto and graduate students as those are more relevant to my experience.
+•	What ‘underwater labour’ contributed to your final data visualization product?
+o	There was quite a bit of labour that went into this task prior to producing the visualization. The first was determining what set I wanted to base the visualization of, and then what subset. Once that was done, I needed to clean and parse the data, which I pared down to UofT and filled in ‘*’ data with ‘0’ to aid visualization. Once that was done, the visualization itself had trouble coming into fruition despite built in graphing features which previously seemed straightforward, but this time required me to create a pivot summary table before allowing me to present the final version of the table that told the information I was interested in seeing.
+
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
